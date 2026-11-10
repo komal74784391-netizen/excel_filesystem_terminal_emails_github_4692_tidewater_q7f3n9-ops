@@ -1,0 +1,45 @@
+{
+  "collection": "Tidewater Observing Network — Open Data Register",
+  "cycle": "2027-Q1",
+  "prepared_by": "Data Stewardship",
+  "last_updated": "2026-11-02",
+  "datasets": [
+    {
+      "dataset_id": "TWN-OD-01",
+      "title": "Coastal PM2.5 Grid, 2019-2026",
+      "candidate_repo": "excel_filesystem_terminal_emails_github_4692_tidewater_q7f3n9-coastal-pm-grid",
+      "notes": "Station grid reanalysis; annual refresh."
+    },
+    {
+      "dataset_id": "TWN-OD-02",
+      "title": "Saltmarsh Carbon Ledger, 2021-2026",
+      "candidate_repo": "excel_filesystem_terminal_emails_github_4692_tidewater_q7f3n9-saltmarsh-carbon-ledger",
+      "notes": "Migrated from the estuary lab's mirror.",
+      "repository_url": "https://github.com/estuary-data-lab/saltmarsh-carbon-ledger"
+    },
+    {
+      "dataset_id": "TWN-OD-03",
+      "title": "Sediment Core Chronology Toolkit",
+      "candidate_repo": "excel_filesystem_terminal_emails_github_4692_tidewater_q7f3n9-sediment-core-chronology",
+      "notes": "Age-depth modelling utilities for core archives."
+    },
+    {
+      "dataset_id": "TWN-OD-04",
+      "title": "Harbor Turbidity Series, 2022-2026",
+      "candidate_repo": "excel_filesystem_terminal_emails_github_4692_tidewater_q7f3n9-harbor-turbidity-series",
+      "notes": "Awaiting transfer from the port authority."
+    },
+    {
+      "dataset_id": "TWN-QR-2027Q1",
+      "title": "Tidewater Quarterly Air-Quality Collection — 2027-Q1",
+      "candidate_repo": null,
+      "coverage": {
+        "period_start": null,
+        "period_end": null,
+        "period_count": null,
+        "reading_count": null
+      },
+      "notes": "Coverage block to be completed from the quarterly readings workbook."
+    }
+  ]
+}
